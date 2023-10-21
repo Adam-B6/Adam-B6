@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on projects
-- 🌱 I’m inscreasing my knowledge in programming every day 
+- 🌱 I’m expanding my knowledge in programming every day 
 - 🤔 I’m open for help with my work
 - ⚡ Fun fact: I love staying fit
 
